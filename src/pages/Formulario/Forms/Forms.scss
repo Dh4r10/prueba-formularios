@@ -1,0 +1,11 @@
+.crear-usuario__forms {
+  &-datos-personales {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  &-datos-perfil {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
